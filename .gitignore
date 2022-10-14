@@ -22,6 +22,15 @@
 # Visual Studio cache directory
 .vs/
 
+# Assets That aren't used here
+Assets/VRChat Examples
+Assets/SimpleAI
+Assets/CyanEmu
+Assets\Models
+Assets\MorePrefabs
+
+
+
 # Gradle cache directory
 .gradle/
 
